@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/640px-ATV_%28Peru%29_-_2018_logo.png", Canal ATV
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzMwODY1LCJzZXNzaW9uIjoiMTc5LjcuMTk0LjIxIiwid2hpdGVsaXN0IjpbIjE3OS43LjE5NC4yMSJdfSwic2lnbmF0dXJlIjoiZjVjYjJkZTQwY2U5NjNmY2Q3NGFlNTk5MTJhYTg2N2VlYzE4OTVhZCJ9
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png", CANAL TNT 
+https://z949shw7qx.azcdn728.net:8443/hls/glaldsq.m3u8?s=fAI9GzLLe0_zZBBs5S525g&e=1624666375
+
+#EXTINF: -1, tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-movistar-liga-de-campeones-en-vivo.jpg",CANAL MOVISTAR 
+https://z949shw7qx.azcdn728.net:8443/hls/es7vp53q9k397.m3u8?s=esFMb_VisFU-r7wCfrtUpQ&e=1624665753
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg",CANAL LATINA 
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+
+
+#EXTINF: -1, tvg-logo="https://cdn.mitvstatic.com/channels/7c573548-9ffe-4bd8-9d3d-1503aa114c4c_m.jpg",CANAL FX 
+https://z949shw7qx.azcdn728.net:8443/hls/3cuvpp5n.m3u8?s=q0xjur0oLdbtoq5UuJl95g&e=1624666276
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png",CANAL MTV 
+https://z949shw7qx.azcdn728.net:8443/hls/1ojmxycsqiiy8.m3u8?s=QchPU4f3Uo6t2WT0czM1Vg&e=1624666319
+
+
+#EXTINF: -1, tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png",CANAL FOX SPORTS
+https://z949shw7qx.azcdn728.net:8443/hls/u8wu10r51.m3u8?s=5B5iqUaKIwbGUQzapBfs3Q&e=1624666520
+
+#EXTINF: -1, tvg-logo="https://braviasfinancial.com/wp-content/uploads/2018/08/fox-logo-black-png-3.png",CANAL FOX
+https://z949shw7qx.azcdn728.net:8443/hls/0e733j.m3u8?s=PqObNqEXqBISNo_01uy6ig&e=1624564598
+
+
+#EXTINF: -1, tvg-logo="https://www.dafont.com/forum/attach/orig/4/5/452164.jpg",CANAL CARTOON NETWORK 
+https://z949shw7qx.azcdn728.net:8443/hls/1feji.m3u8?s=vLrFL4m9IKjKoT1gXv9wPA&e=1624665440
+
+
+#EXTINF: -1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Discovery_Kids_Play_2015.png/revision/latest?cb=20210411005607&path-prefix=es",CANAL Discovery Kids 
+https://z949shw7qx.azcdn728.net:8443/hls/0gtz7.m3u8?s=-R2KsIHvoYH_3TtM2mxi2g&e=1624665413
+
+#EXTINF: -1, tvg-logo="https://lh3.googleusercontent.com/proxy/z9-4IkBsD6Sw_zmdlvJ8vKIojVotg7k3RDwFmtHtrXGKUY6yLx0Ansjz6jsQBCZjp_l7aHjZzIb5k-0gUFvkBDwkeseNMAi8LGkW0e76QHNS5LuSw9k",CANAL DISNEY JUNIOR 
+https://z949shw7qx.azcdn728.net:8443/hls/inkizfn6wve8oc.m3u8?s=xFz8v-vAFnOqQcWjNGJ5iQ&e=1624665380
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",CANAL Disney XD 
+https://z949shw7qx.azcdn728.net:8443/hls/12dyavowb6wnxh3.m3u8?s=Bq05-dHWwvoEtZhrO60LWQ&e=1624665338
+
+#EXTINF: -1, tvg-logo="https://i1.wp.com/www.nolapeles.com/wp-content/uploads/2014/07/nuevo-logo-disney-channel-2014.jpg?resize=659%2C332",CANAL DISNEY CHANNEL 
+https://z949shw7qx.azcdn728.net:8443/hls/96859.m3u8?s=BCjPeRcLdSqOpZG_K3jIUw&e=1624665302
+
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.jpg",CANAL nickelodeon 
+https://z949shw7qx.azcdn728.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=Uhgz2Vt7xFlocXlBRVu8Dg&e=1624565148
+
+
+#EXTINF: -1, tvg-logo="https://img2.freepng.es/20180526/hjo/kisspng-nicktoons-teennick-nickelodeon-television-logo-tv-5b098f7ac85d02.2389422615273532108207.jpg",CANAL nicktoons 
+https://z949shw7qx.azcdn728.net:8443/hls/vgwtkzk.m3u8?s=nM24mtUL8AVdSka3r46AUA&e=1624665539
+
+#EXTINF: -1, tvg-logo="https://www.tvguia.co/wp-content/uploads/2020/07/tooncast-logo.jpg",CANAL TOONCAST 
+https://z949shw7qx.azcdn728.net:8443/hls/9efxxdu.m3u8?s=X7wJrMXHaarzTTxYAtiIZw&e=1624665511
+
+
+#EXTINF: -1, tvg-logo="https://www.estilosblog.com/wp-content/uploads/2014/09/20140915211319ENPRNPRN-HBO-LATINO-LOGO-091515-1y-1410815599MR-300x211.jpg",CANAL HBO LATINO 
+https://z949shw7qx.azcdn728.net:8443/hls/lbqtn3.m3u8?s=lc7Ub0-7cL-gmN2toG-WtA&e=1624665250
+
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg",CANAL boomerang 
+https://z949shw7qx.azcdn728.net:8443/hls/hmnf8ejk.m3u8?s=DaxrdAeptAWMphM6hiPMow&e=1624665486
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",CANAL gol tv 
+https://z949shw7qx.azcdn728.net:8443/hls/nt79b4v8i6.m3u8?s=MMhFZDtmNmow6ceHaZUv_A&e=1624666241
+
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",CANAL Animal Planet 
+https://z949shw7qx.azcdn728.net:8443/hls/zfwban4sppn0.m3u8?s=0QlrT8bAvHhoCnrojrS8ow&e=1624665583
+
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png",CANAL MOVISTAR DEPORTES 
+https://z949shw7qx.azcdn728.net:8443/hls/u8sutdeb.m3u8?s=JWi4CPNu9t0wjhcy3f176Q&e=1624566195
+
+
+#EXTINF: -1, tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/9854.png",CANAL Tnt sports 
+https://z949shw7qx.azcdn728.net:8443/hls/kqfqxg.m3u8?s=ruY1N_f9Dxn-XBFSCRBl9A&e=1624665699
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",CANAL FOX SPORTS PREMIUM 
+https://z949shw7qx.azcdn728.net:8443/hls/nqr8ua5ep6t.m3u8?s=1z7KnD0gxKDQCiZdX6N2Eg&e=1624666555
+
+#EXTINF: -1, tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAh1BMVEX////dAADwq6vaAADyt7flYGD0wsLzvb3mamrvpaX65eX2z8/xtLT98vL++/v76ur1ycn539/319fwrq7qh4fncnL31dX+9/fsl5fkXFz87+/tnp7rj4/jVlbhOjrtmprhQ0PgNDToe3vfKCjlZWXeHR3iSkrhQUHmbm7jUFDeEBDpf3/fKirG2/d4AAAENklEQVR4nO3a7VYaPRSG4WCEEUFAoCKIHyhtpfb8j68Z0DZ7YDIPhB/vetd9/XRCkg1kJ9noHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+J8adC+adYd/m/cuhfYpk2L8b/SGwfujRX6E177VzF/vGvdfvFfapzvzft77fL8aOgtN3ya5EfakCAfbpq3s6P52eCW/vX41y4uwL826bNk9W3zlvNtllyOpy7e8CJ+VMZ5Cw+KcAYYQR+XbqzV9yIrwVRlj7dzsvAG2WvMw+L3YNivCR2WEqXPTjGAO8mHwb2LTYWMYCd+VIbrO5QRzeNohe/0Qm97lRCil0o62qRyljFBt2ssI8EaKcHzuPNPafUvFTv24MY56YynChXvIiuaQjXNDNcKbjAgLrwiJRmp3jGV52tBk5dLb/qUgTEZqd4T+bc60AZxLrzPq3Y1vr6+Hi9nAPJkVn4+Gi5vKoyONpVwWDk2N6e7x4Sulz7UE2XfuyfwhTj135smPjAg70nbo3EK5yE13fT5pe9y4cqTx8Ud1acabZkTYlWYj7s1+s+1T6nJ7mradxvOyd7qLjAilG8OLenfy9665MvHV9qZy1v0Zz8tcOrZXyVOtlcmUFQdp1tuz5q14FKsWUN7jeZlLx1eV6CQrZS7lMtCuh+ESIlYmyk5tAWUZz8v2mhGgdrgPt0Mp1QThazqRGvpZ9YYf19QG9Sv0SNLy8kXZVKtYhU9mKQVY3odMAcUsNvtN32REWFkzNTvX7obdUWqJIcJ3Ib7NtiyxMX+Lt0O7ib1mRGh72nSKQy6/6pXFdN3eMzdzf3buxfxhtfeS9Wv3M3P8MhHG26HdxHJKbRemp2XzC/aZlF9mGvtxdRMvrV9sJq/tVsmJ7Jo5qX5uvgYhr9skUYZcxyavp/iR+WL4nJvklenppHqPKW/4aqE+tZXdmZZX8SNTAPQ5VX1zhDytGmIS4q/qNp7ayor67VDuo1HLeL86pD1yg6JTZ/Qz7mFe3Q6/Jwa3xa347DmsP84dSTpCho1qmLo2xabVbXydGP3DjBIv2MRx7kjSETIsJankWJpUC/Wp9Gx+TzDpxJ4u7jMilI6QXrxFtnYnFXtm7idGfzMt43SylPtooh0h1Xa7nLAXcq36dGKORVk/WkhHyBf9R7DHvXknEr39PWEVP7IpPuenfOEIuV3oH82ttnPp7RUDEoPbxW1S0vk2C5Pp64Rk0dYC/OaqaTBVQrKLOy7F2BvP75wIpYlPxNqSL3/UraTBj8Tg9nQdn19tim9nBKhthz3tnfC7Odolmzp329N1vB0WtZ/useR/pWn+r5fVw+fl590cxFMlpEfTMt4On82TnELbUPp3qEHjv031e/9SZmFemzrp9k3LOOmOzJOcMhQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgv+wNb2zbWdaOzcgAAAABJRU5ErkJggg==",CANAL ESPN 
+https://z949shw7qx.azcdn728.net:8443/hls/55969ysaajd0z.m3u8?s=1VsCF-k4XuTrtYgAfy0sDw&e=1624665795
+
+
+#EXTINF: -1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Caracolintl.jpg/revision/latest/scale-to-width-down/250?cb=20210218132353&path-prefix=es",CANAL CARACOL 
+https://tna5.bozztv.com/c1wrdhgdrtj/index.m3u8
+
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/LogoTelevisa_Naranja.jpg",CANAL Televisa 
+https://z949shw7qx.azcdn728.net:8443/hls/wuiltxgwjo.m3u8?s=MAkTEEk1ZG8IFmGnMe66kw&e=1624567023
+
+
+#EXTINF: -1, tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg",CANAL TLNOVELAS 
+https://z949shw7qx.azcdn728.net:8443/hls/ouxh0x6d70uxb.m3u8?s=cKI5rGr3pGvaYP_mDJcdmg&e=1624665143
+
+
+#EXTINF: -1, tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/9988.png",CANAL Las Estrellas 
+https://z949shw7qx.azcdn728.net:8443/hls/dscs0wr97wf.m3u8?s=IPp_llcmwQpGcOlPEKMqFw&e=1624666185
+
+
+#EXTINF: -1, tvg-logo="https://img2.freepng.es/20180417/lqq/kisspng-universal-channel-television-channel-television-sh-tv-shows-5ad62001d1f0c7.3271560015239823378599.jpg",CANAL UNIVERSAL CHANNEL 
+https://z949shw7qx.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=qbtmW7XnDTnlGXhvLAktFA&e=1624665059
+
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Warner_Bros._Pictures_logo.svg/1093px-Warner_Bros._Pictures_logo.svg.png",CANAL WARNER 
+https://z949shw7qx.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=tblcLfZQ8J4Ih8dPfN_Yzw&e=1624666150
+
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",CANAL Studio Universal 
+https://z949shw7qx.azcdn728.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=ICmDoIQLUXOAhNuOw_CoQA&e=1624666121
+
+
+#EXTINF: -1, tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png",CANAL FOX SERIES 
+https://z949shw7qx.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=b6adfAzbvlG9J0TtPRDJ_w&e=1624666019
+
+#EXTINF: -1, tvg-logo="https://salvatv.xyz/wp-content/uploads/2020/11/787.png",CANAL Direct tv
+https://e4.cdnfoxtv.com/ingest01/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=XgqABb9XsXNK099WCSiNvw&expires=1624658699&rnd=
+
+#EXTINF: -1, tvg-logo="https://willax.tv/wp-content/uploads/2020/07/Logo-Willax-Optimismo.png",CANAL Willax
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgWiMlZR-_-K38pCa7uagUc)/dm/3/x7x4dgx/s/live-2.m3u8
